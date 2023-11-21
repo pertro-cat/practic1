@@ -1,2 +1,2 @@
 # practic1
-my firs repl ir 13
+myfirsrepl-ir-13
